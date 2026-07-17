@@ -47,7 +47,7 @@ pip install -U shodan
 # Linked the terminal using the unique Shodan API Key
 shodan init <YOUR_API_KEY_HERE>
 
-```<img width="960" height="504" alt="Screenshot 2026-07-17 152046" src="https://github.com/user-attachments/assets/e3bd7d3f-8ba4-414c-943b-7cc961d42a6c" />
+<img width="960" height="504" alt="Screenshot 2026-07-17 152046" src="https://github.com/user-attachments/assets/e3bd7d3f-8ba4-414c-943b-7cc961d42a6c" />
 <img width="960" height="504" alt="Screenshot 2026-07-17 150324" src="https://github.com/user-attachments/assets/62eab3d7-5266-4e45-a46c-a9b1c0b0c9c3" />
 <img width="960" height="504" alt="Screenshot 2026-07-17 152222" src="https://github.com/user-attachments/assets/09815c6b-2748-43b6-a1bd-80b78188b75d" />
 <img width="960" height="540" alt="Screenshot 2026-07-17 152158" src="https://github.com/user-attachments/assets/341c30f1-18b4-4f60-8dfe-b655037aeed7" />
