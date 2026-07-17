@@ -47,15 +47,7 @@ pip install -U shodan
 # Linked the terminal using the unique Shodan API Key
 shodan init <YOUR_API_KEY_HERE>
 
-<img width="960" height="504" alt="Screenshot 2026-07-17 152046" src="https://github.com/user-attachments/assets/e3bd7d3f-8ba4-414c-943b-7cc961d42a6c" />
-<img width="960" height="504" alt="Screenshot 2026-07-17 150324" src="https://github.com/user-attachments/assets/62eab3d7-5266-4e45-a46c-a9b1c0b0c9c3" />
-<img width="960" height="504" alt="Screenshot 2026-07-17 152222" src="https://github.com/user-attachments/assets/09815c6b-2748-43b6-a1bd-80b78188b75d" />
-<img width="960" height="540" alt="Screenshot 2026-07-17 152158" src="https://github.com/user-attachments/assets/341c30f1-18b4-4f60-8dfe-b655037aeed7" />
-<img width="960" height="504" alt="Screenshot 2026-07-17 150255" src="https://github.com/user-attachments/assets/47ff364c-0116-4856-8017-436a77fce1f3" />
-<img width="960" height="504" alt="Screenshot 2026-07-17 150244" src="https://github.com/user-attachments/assets/a6f55fea-3117-4241-91e8-eeada92e2180" />
-<img width="960" height="504" alt="Screenshot 2026-07-17 145904" src="https://github.com/user-attachments/assets/4361c932-a50e-4fab-8012-66b510d4b24b" />
-
-## Phase 3: Data Link Analysis & Visual Reconnaissance (Maltego)
+# Phase 3: Data Link Analysis & Visual Reconnaissance (Maltego)
 
 ### 🔍 Objective
 The objective of this phase was to aggregate the discovered target infrastructure into a unified visual intelligence graph, analyzing the relationships between the root domain and its child assets to understand the overall attack surface map.
@@ -72,3 +64,12 @@ The transform successfully mapped out relationships to major structural endpoint
 *   groups.owasp.org
 *   mail.owasp.org
 *   www.owasp.org
+
+<img width="960" height="504" alt="Screenshot 2026-07-17 152046" src="https://github.com/user-attachments/assets/e3bd7d3f-8ba4-414c-943b-7cc961d42a6c" />
+<img width="960" height="504" alt="Screenshot 2026-07-17 150324" src="https://github.com/user-attachments/assets/62eab3d7-5266-4e45-a46c-a9b1c0b0c9c3" />
+<img width="960" height="504" alt="Screenshot 2026-07-17 152222" src="https://github.com/user-attachments/assets/09815c6b-2748-43b6-a1bd-80b78188b75d" />
+<img width="960" height="540" alt="Screenshot 2026-07-17 152158" src="https://github.com/user-attachments/assets/341c30f1-18b4-4f60-8dfe-b655037aeed7" />
+<img width="960" height="504" alt="Screenshot 2026-07-17 150255" src="https://github.com/user-attachments/assets/47ff364c-0116-4856-8017-436a77fce1f3" />
+<img width="960" height="504" alt="Screenshot 2026-07-17 150244" src="https://github.com/user-attachments/assets/a6f55fea-3117-4241-91e8-eeada92e2180" />
+<img width="960" height="504" alt="Screenshot 2026-07-17 145904" src="https://github.com/user-attachments/assets/4361c932-a50e-4fab-8012-66b510d4b24b" />
+
