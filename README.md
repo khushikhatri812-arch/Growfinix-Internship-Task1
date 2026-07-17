@@ -27,3 +27,22 @@ cd .\theHarvester-master\theHarvester-master\
 
 # Install the application and its local dependencies
 pip install .
+
+```
+## Phase 2: Threat Intelligence & Asset Detection (Shodan)
+
+###  Objective
+The goal of this phase was to use Shodan as an internet-wide intelligence engine to discover open services, network mappings, and infrastructure details for the target domain without running an active, disruptive network port scan.
+
+### 🛠️ Installation & Troubleshooting
+During the installation on Python 3.14, a ModuleNotFoundError occurred regarding a missing pkg_resources module. This was fixed by installing a compatible version of the core setup tools:
+
+```powershell
+# Fixed the dependency environment
+pip install setuptools==81.0.0
+
+# Installed the Shodan CLI package
+pip install -U shodan
+
+# Linked the terminal using the unique Shodan API Key
+shodan init <YOUR_API_KEY_HERE>
