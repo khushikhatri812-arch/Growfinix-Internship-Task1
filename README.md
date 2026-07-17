@@ -57,6 +57,16 @@ The objective of this phase was to aggregate the discovered target infrastructur
 2. Dragged a *Domain Infrastructure Entity* onto the grid and targeted owasp.org.
 3. Executed the [Utilities] To DNS Name [Using Name Schema dictionary] transform from the *DNS from Domain* suite.
 
+<img width="960" height="504" alt="Screenshot 2026-07-17 150324" src="https://github.com/user-attachments/assets/33a173c9-cd0c-4b25-be9e-3ce2119ee934" />
+<img width="960" height="504" alt="Screenshot 2026-07-17 152222" src="https://github.com/user-attachments/assets/0ada27fd-0c98-43f5-9857-b644c8839b0d" />
+<img width="960" height="540" alt="Screenshot 2026-07-17 152158" src="https://github.com/user-attachments/assets/a32044c6-bb60-43eb-8383-a0dd728f02b1" />
+<img width="960" height="504" alt="Screenshot 2026-07-17 152046" src="https://github.com/user-attachments/assets/aab254e6-699a-4c43-b5a4-90fbed0bd56b" />
+<img width="960" height="504" alt="Screenshot 2026-07-17 150255" src="https://github.com/user-attachments/assets/9e23ff39-9b5f-4607-9b6e-a9b4eb4a2d2a" />
+<img width="960" height="504" alt="Screenshot 2026-07-17 150244" src="https://github.com/user-attachments/assets/5a7141b6-99ec-498c-8f41-cf559e3d0ea9" />
+<img width="960" height="504" alt="Screenshot 2026-07-17 145904" src="https://github.com/user-attachments/assets/1978160d-5b10-4bb8-a548-cd1ad47c6108" />
+
+
+
 ### 📊 Visual Intelligence Discovered
 The transform successfully mapped out relationships to major structural endpoints, revealing direct architectural dependencies:
 *   admin.owasp.org
@@ -65,12 +75,5 @@ The transform successfully mapped out relationships to major structural endpoint
 *   mail.owasp.org
 *   www.owasp.org
 
-<img width="960" height="504" alt="Screenshot 2026-07-17 150324" src="https://github.com/user-attachments/assets/33a173c9-cd0c-4b25-be9e-3ce2119ee934" />
-<img width="960" height="504" alt="Screenshot 2026-07-17 152222" src="https://github.com/user-attachments/assets/0ada27fd-0c98-43f5-9857-b644c8839b0d" />
-<img width="960" height="540" alt="Screenshot 2026-07-17 152158" src="https://github.com/user-attachments/assets/a32044c6-bb60-43eb-8383-a0dd728f02b1" />
-<img width="960" height="504" alt="Screenshot 2026-07-17 152046" src="https://github.com/user-attachments/assets/aab254e6-699a-4c43-b5a4-90fbed0bd56b" />
-<img width="960" height="504" alt="Screenshot 2026-07-17 150255" src="https://github.com/user-attachments/assets/9e23ff39-9b5f-4607-9b6e-a9b4eb4a2d2a" />
-<img width="960" height="504" alt="Screenshot 2026-07-17 150244" src="https://github.com/user-attachments/assets/5a7141b6-99ec-498c-8f41-cf559e3d0ea9" />
-<img width="960" height="504" alt="Screenshot 2026-07-17 145904" src="https://github.com/user-attachments/assets/1978160d-5b10-4bb8-a548-cd1ad47c6108" />
 
 
