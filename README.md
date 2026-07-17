@@ -3,6 +3,8 @@
 This repository contains the practical tasks completed during my Cybersecurity Internship at *Growfinix Technology*. It demonstrates core concepts of (OSINT), passive reconnaissance, and threat reporting.
 
 ---
+<img width="960" height="504" alt="Screenshot 2026-07-17 145904" src="https://github.com/user-attachments/assets/b2adaa95-0386-46de-bdd9-ad66e4a8f163" />
+
 
 ## Task 1: Passive Reconnaissance & Information Gathering
 
@@ -55,14 +57,7 @@ The objective of this phase was to aggregate the discovered target infrastructur
 ### 🛠️ Configuration & Workflow
 1. Launched *Maltego Community Edition (CE)* and created a blank workspace graph.
 2. Dragged a *Domain Infrastructure Entity* onto the grid and targeted owasp.org.
-3. Executed the [Utilities] To DNS Name [Using Name Schema dictionary] transform from the *DNS from Domain* suite.
-
-<img width="960" height="504" alt="Screenshot 2026-07-17 152222" src="https://github.com/user-attachments/assets/4f67c425-d725-4509-87f8-293ae87237bd" />
-<img width="960" height="540" alt="Screenshot 2026-07-17 152158" src="https://github.com/user-attachments/assets/54002adb-08d1-4739-b350-40fd72ecfb2b" />
-<img width="960" height="504" alt="Screenshot 2026-07-17 152046" src="https://github.com/user-attachments/assets/1b9becc4-2dd7-4063-951f-4b2a39171c18" />
-<img width="960" height="504" alt="Screenshot 2026-07-17 150324" src="https://github.com/user-attachments/assets/b3f7410d-dc78-4a38-a0c6-930e100962d3" />
-
-
+3. Executed the [Utilities] To DNS Name [Using Name Schema dictionary] transform from the *DNS from Domain* suite
 
 
 ###  Visual Intelligence Discovered
