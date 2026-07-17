@@ -1,3 +1,11 @@
+<img width="960" height="504" alt="Screenshot 2026-07-17 174231" src="https://github.com/user-attachments/assets/15444949-fd1c-437b-9dc5-61decbbbb3a7" />
+<img width="960" height="504" alt="Screenshot 2026-07-17 164509" src="https://github.com/user-attachments/assets/0622fdd5-15e0-48db-8ec1-da5d0b8515ce" />
+<img width="960" height="504" alt="Screenshot 2026-07-17 152046" src="https://github.com/user-attachments/assets/e77d63be-b004-4036-910d-42dbd28ed03f" />
+<img width="960" height="504" alt="Screenshot 2026-07-17 150324" src="https://github.com/user-attachments/assets/05ec9bb9-d263-43d5-bf0a-41ddc181fadd" />
+<img width="960" height="504" alt="Screenshot 2026-07-17 152222" src="https://github.com/user-attachments/assets/4426e2e9-d4a6-4fc2-930c-992441d4f39a" />
+<img width="960" height="540" alt="Screenshot 2026-07-17 152158" src="https://github.com/user-attachments/assets/94a6e393-cd87-45b1-a8dc-870f082f68ea" />
+<img width="960" height="504" alt="Screenshot 2026-07-17 150255" src="https://github.com/user-attachments/assets/19343d2f-6972-4ee2-b040-286b8046ecef" />
+<img width="960" height="504" alt="Screenshot 2026-07-17 150244" src="https://github.com/user-attachments/assets/43f0f49f-e6a2-4357-8a79-fc854a9e0b45" />
 # Growfinix Technology Internship - Cybersecurity Tasks
 
 This repository contains the practical tasks completed during my Cybersecurity Internship at *Growfinix Technology*. It demonstrates core concepts of (OSINT), passive reconnaissance, and threat reporting.
